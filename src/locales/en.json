@@ -1,0 +1,9 @@
+{
+  "main": {
+    "appTitle": "List of Tasks",
+    "total": "Total",
+    "all_task": "All Tasks",
+    "fav_task": "Favorite Task",
+    "add_task": "Add Task"
+  }
+}
